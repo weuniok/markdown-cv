@@ -1,91 +1,69 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: CV Pawel Pietrzak
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Paweł Pietrzak
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="studia.pawla.pietrzaka@gmail.com">studia.pawla.pietrzaka@gmail.com</a>
+| +48 668 460 128
 </div>
 
+## Edukacja
 
-## Currently
+`2019 - `
+__Politechnika Warszawska__
+- Wydział Mechaniczny Energetyki i Lotnictwa
+- Lotnictwo i Kosmonautyka (IV semestr)
 
-Standing on the shoulders of giants
+## Praktyki
 
-### Specialized in
+`Lato 2020`
+__TeFeNICA 2020: Zjednoczony Instytut Badań Jądrowych__, Dubna, Rosja (praktyki zdalne)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Tytuł projektu: *Cosmic ray measurements in automation cycle using Python programming*
+* Stworzyłem aplikację do odbierania, archiwizowania i wizualnej prezentacji danych transmitowanych przez detektor promieniowania kosmicznego CosmicWatch
+* Główne problemy: komunikacja szeregowa z urządzeniem, przetwarzanie i wizualizacja danych, projektowanie i implementacja interfejsu graficznego
+* Zapoznałem się z zagadnieniami związanymi ze źródłem, propagacją i detekcją promieniowania kosmicznego
+* Podsumowanie projektu odbyło się na seminarium końcowym w języku angielskim
 
+## Inne projekty
 
-### Research interests
+__Studenckie Koło Astronatuyczne__
+- Analiza termiczna gondoli balonowej w ramach przygotowań do udziału koła w programie BEXUS (w trakcie)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Umiejętności
+Znajomość programów 2D&3D CAD: AutoCAD, Creo Parametric, Siemens NX
 
+Programowanie: Python (doświadczony), C (podstawy)
 
-## Education
+Języki: angielski (C1), rosyjski (A2) 
 
-`1654-1660`
-__The King's School, Grantham.__
+## Zainteresowania
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Promieniowanie kosmiczne, samoloty ultralekkie, literatura sci-fi
 
-- Sizar
+&nbsp;
 
-`1667 - death`
-__Trinity College, Cambridge__
+&nbsp;
 
-- Fellow
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
-## Awards
+&nbsp;
 
-`2012`
-President, *Royal Society*, London, UK
+&nbsp;
 
-Associate, *French Academy of Science*, Paris, France
+&nbsp;
 
+&nbsp;
 
+&nbsp;
 
-## Publications
+&nbsp;
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+----
+_Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji zgodnie z Rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (RODO)._
