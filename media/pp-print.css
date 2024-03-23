@@ -77,9 +77,22 @@ code {
 	color: #444;
 }
 
+#rodo {
+	font: normal normal;
+	font-size: 70%;
+	font-family: Menlo, monospace,s ans-serif;
+	color: #444;
+	bottom: 0;
+	text-align: justify;
+	position: fixed;
+	border-top: 1px solid gray;
+}
+
 p code {
 	position: absolute;
-	left: -10%;
+	left: -15%;
+	width: 100% 
+	text-align: justify
 }
 
 
@@ -88,7 +101,9 @@ ul {
 	left: 28%;
 	width: 65%;
 	margin-bottom: 1em;
-	margin-top: 2em;
+	margin-top: 1em;
+	padding-left: 2em;
+	list-style-type: circle;
 }
 
 
@@ -109,13 +124,13 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #fd9544;
+	color: #ff7b00;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
 	margin-top: 2em;
-	left: 25%;
+	left: 20%;
 	/* padding: .1rem 1rem; */
   text-shadow: 1px 1px #fff,
       					1px 2px #ccc;
@@ -135,7 +150,7 @@ h2 {
 	font-size: 1.1em;
 	/* color: #a00; */
 	color: #1D49A0;
-	margin-top: 2em;
+	margin-top: 1.5em;
 	position: relative;
 	top: 1.4em;
 	text-align: right;
@@ -164,7 +179,7 @@ a:hover {
 #webaddress {
 	margin-top: 0em;
 	position: relative;
-  margin-left: 25%;
+  margin-left: 20%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 80%;
