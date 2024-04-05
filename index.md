@@ -22,11 +22,11 @@ title: CV Pawel Pietrzak
 
 ## Work history
 
-`2022.06 - 2023.01`
+`2022.06 - 2024.01`
 **QuickerSim** - Junior Simulation Software Developer
 - Front-end development (TypeScript, React)
 - Back-end development (Django, Node.js)
-- Physics engine development (MATLAB)
+- Physics engine development (mechanical and fluid computations) (MATLAB)
 - Writing research project documentation (LaTeX)
 
 `2023.07 - 2023.10`
@@ -70,9 +70,9 @@ I agree to the processing of personal data provided in this document for realisi
 **SAE AeroDesign Student Association**
 
 - Association managment as a board member for 1 year.
-- Unmanned plane construction for SAE AeroDesign competition (mechanics of flight calculations, workshop works, laminating).
 - Writing and live presentation of a research paper about 5G C-Band impact on aviation.
-- Co-writing the technical documentation for said competiton, creating and delivering the presentation about our aircraft.
+- Unmanned plane construction for SAE AeroDesign competition (mechanics of flight calculations, workshop works, laminating).
+- Co-writing the technical documentation, creating and delivering the presentation about our aircraft.
 - SAE EAST 22 competition - technical documentation co-author (1st place),
  presentation co-author and speaker (1st place);
 - SAE WEST 23 competition - presentation co-author and speaker (4th place);
